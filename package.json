@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "publish": "node publisher",
+    "consume": "node consumer"
+  },
+  "dependencies": {
+    "amqplib": "^0.7.1"
+  }
+}
